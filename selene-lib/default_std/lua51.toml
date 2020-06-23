@@ -134,6 +134,7 @@ type = "table"
 
 [[setmetatable.args]]
 type = "table"
+required = false
 
 [[setmetatable.args]]
 type = "table"

@@ -8,6 +8,9 @@ property = true
 [selene.structs.EnumItem.Value]
 property = true
 
+[selene.structs.EnumItem.EnumType]
+property = true
+
 [selene.structs.Event.Connect]
 method = true
 
